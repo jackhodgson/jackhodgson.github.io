@@ -1,6 +1,6 @@
 ## Untitled Page (md source)
 
-# New website on github</h1>
+# New website on github
   
 * [Page Two](pagetwo.html)
 * [Page Three](posts/pagethree.html)
