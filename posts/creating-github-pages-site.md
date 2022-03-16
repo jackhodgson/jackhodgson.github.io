@@ -18,3 +18,9 @@ The "homepage" of the site is the repo at \<username\>/\<username\>.github.io
   
   Note that source pages written as Markdown .md appear as .html instead of .md.
   
+---
+
+Sample pages:
+
+* [Page Two](pagetwo.html)
+* [Page Three](posts/pagethree.html)
