@@ -6,6 +6,8 @@ The list below is generally in reverse chron order of when I first wrote the ite
 
 ---
 
+#### Wed, Mar 16, 2022
+
 ### [Some notes on setting up a simple website with Github Pages.](posts/creating-github-pages-site.html)
 
 Jotted down a few notes, reminders, on the issues/steps involved in starting a Github Pages website. This is not about making a Jekyll blog. For now I'm trying to just create simple webpages.
