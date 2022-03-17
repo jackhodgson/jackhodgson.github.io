@@ -1,4 +1,4 @@
-# A variety of posts by Jack Hodgson
+## Posts on many different subjects by Jack Hodgson
 
 I've created this as a place for me to post occasional writing that I do. Subjects will be all over the place, from Aviation, to Technology, to Social Issues, to whatever has caught my attention lately.
 
